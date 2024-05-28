@@ -2,9 +2,9 @@
 <div align="center">
   <p><b>🚫 请文明使用插件，不要尝试反编译本插件</b></p>
   <p><b>🏷️ 请从<a href = "https://github.com/ELDment/CS2_Railcannon/releases">Release</a>下载最新插件及其依赖库</b></p>
-  <img alt = "SS" src = "https://img.shields.io/github/stars/ELDment/CS2_Railcannon?style=for-the-badge" height="20">
-  <img alt = "DL" src = "https://img.shields.io/github/downloads/ELDment/CS2_Railcannon/total?style=for-the-badge" height="20">
-  <img alt = "LC" src = "https://img.shields.io/github/last-commit/CS2_Railcannon/cover-agent/main?style=for-the-badge" height="20">
+  <img alt = "RL" src = "https://img.shields.io/github/v/release/ELDment/CS2_Railcannon?style=for-the-badge&logo=github" height="20">
+  <img alt = "SS" src = "https://img.shields.io/github/stars/ELDment/CS2_Railcannon?style=for-the-badge&logo=github" height="20">
+  <img alt = "DL" src = "https://img.shields.io/github/downloads/ELDment/CS2_Railcannon/total?style=for-the-badge&logo=github" height="20">
   <p><b>♻️ 2024 ©️ ELDment ♻️</b></p>
 </div>
 
